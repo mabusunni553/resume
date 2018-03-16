@@ -1,0 +1,22 @@
+{
+	"basics":{
+		"objective":"all are true"
+	},
+	"education":[
+		{
+			"degree":"B.tech(computer science of engineering)",
+			"college":"klm college of engineering",
+			"data":["2015-2019","75%"]
+		},
+		{
+			"degree":"intermediate",
+			"college":"nalanda jr college",
+			"data":["2013-2015","93%"]
+		},
+		{
+			"degree":"ssc",
+			"school":"zphschool",
+			"data":["2012-2013","87%"]
+}
+]
+}
